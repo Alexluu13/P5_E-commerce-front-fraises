@@ -2,7 +2,29 @@
 
 Frontend part with Julie D, Assetou, Faris and Alex. Then switch with Julie B, Mehmet, Juanita, Clémentine and Délhia.
 
-- Ce projet collectif à pour but de faire un site e-commerce de zéro. Avec une partie front et une partie back à créer. 
+- Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une front-end et une back-end. Projet sur deux semaines, une équipe travaillant sur une stack puis change la semaine d'après. 
+
+## Notions abordées:
+
+- Déploiement web
+- Bases de données
+- Interactions Front-end/Back-end
+- Utilisation d’un framework pour le back-end
+
+## Outils:
+
+- React-Bootstrap/Nodejs
+- Postman, MongoDB
+- Slack, Notion, Miro
+
+<p><img align="center" alt="" src=""/></p>
+<p><img align="center" alt="" src=""/></p>
+<p><img align="center" alt="" src=""/></p>
+
+Le sujet du projet est de créer un site e-commerce à partir d'une commande client (Lauréline Fleury) et de respecter les demandes de cette dernière, c'est-à-dire: un site internet pour afficher ses produits, une page principale qui regroupera les meubles en vente, un encart dans lequel on pourra retrouver une photo, le type de meuble, le prix et un bouton pour l’acheter, accéder au détail du produit, une page admin... Pour les utilisateurs: ils pourront créer un compte (email + mot de passe), une page qui permet aux utilisateurs connectés de proposer des meubles à vendre...
+
+***
+***
 
 # Transition for the backend team:
 
