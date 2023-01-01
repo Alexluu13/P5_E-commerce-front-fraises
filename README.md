@@ -2,7 +2,7 @@
 
 Frontend part with Julie D, Assetou, Faris and Alex. Then switch with Julie B, Mehmet, Juanita, Clémentine and Délhia.
 
-- Ce projet collectif à pour but de nous faire travailler sur un projet from scratch 
+- Ce projet collectif à pour but de faire un site e-commerce de zéro. Avec une partie front et une partie back à créer. 
 
 # Transition for the backend team:
 
