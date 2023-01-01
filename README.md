@@ -1,6 +1,8 @@
-# projet-collectif---front-fraises 
+# P5_e-commerce-front_fraises
 
-Frontend part with Julie D, Assetou, Faris and Alex.
+Frontend part with Julie D, Assetou, Faris and Alex. Then switch with Julie B, Mehmet, Juanita, Clémentine and Délhia.
+
+- Ce projet collectif à pour but de nous faire travailler sur un projet from scratch 
 
 # Transition for the backend team:
 
