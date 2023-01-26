@@ -23,6 +23,16 @@ Frontend part with Julie D, Assetou, Faris and Alex. Then switch with Julie B, M
 
 Le sujet du projet est de créer un site e-commerce à partir d'une commande client (Lauréline Fleury) et de respecter les demandes de cette dernière, c'est-à-dire: un site internet pour afficher ses produits, une page principale qui regroupera les meubles en vente, un encart dans lequel on pourra retrouver une photo, le type de meuble, le prix et un bouton pour l’acheter, accéder au détail du produit, une page admin... Pour les utilisateurs: ils pourront créer un compte (email + mot de passe), une page qui permet aux utilisateurs connectés de proposer des meubles à vendre...
 
+Lancer Reactjs.
+cd mon-app 
+npm start
+
+Lancer Nodejs.
+npx nodemon server
+
+Quitter un serveur. 
+control + c
+
 ***
 ***
 
