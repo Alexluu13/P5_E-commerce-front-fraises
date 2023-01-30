@@ -1,15 +1,15 @@
 # P5_e-commerce-front_fraises
 
-Frontend part with Julie D, Assetou, Faris and Alex. Then switch with Julie B, Mehmet, Juanita, Clémentine and Délhia.
+Frontend avec Julie D, Assetou, Faris et Alex. Changemnet de stack(backend) avec Julie B, Mehmet, Juanita, Clémentine et Délhia.
 
-- Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une front-end et une back-end. Projet sur deux semaines, une équipe travaillant sur une stack puis change la semaine d'après. 
+Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une front-end et une back-end. Projet sur deux semaines, une équipe travaillant sur une stack puis change la semaine d'après. 
 
 ## Notions abordées:
 
 - Déploiement web
 - Bases de données
 - Interactions Front-end/Back-end
-- Utilisation d’un framework pour le back-end
+- Utilisation d’un framework/library pour le frontend et le backend
 
 ## Outils:
 
@@ -25,11 +25,13 @@ Le sujet du projet est de créer un site e-commerce à partir d'une commande cli
 
 Lancer Reactjs.
 cd mon-app 
+```
 npm start
-
+```
 Lancer Nodejs.
+```
 npx nodemon server
-
+```
 Quitter un serveur. 
 control + c
 
@@ -55,21 +57,6 @@ npm start
 npm install react-bootstrap bootstrap
 
 ```
-
-
-What we did for the setup (you don't have to do it again):
-
-- Master to main: (short version, else see : https://pythonforundergradengineers.com/how-to-change-a-github-repo-from-master-to-main.html)
-Clone the repo git clone git@github.com:adatechschool/projet-collectif---font-fraises.git
-
-git branch -m master main
-
-git push -u origin main
-
-git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main
-
-git push origin --delete master
-
 
 # Start the server. In mon-app.
 
