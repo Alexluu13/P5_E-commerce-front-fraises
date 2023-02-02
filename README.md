@@ -2,7 +2,7 @@
 
 Frontend avec Julie D, Assetou, Faris et Alex. Changemnet de stack(backend) avec Julie B, Mehmet, Juanita, Clémentine et Délhia.
 
-Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une front-end et une back-end. Projet sur deux semaines, une équipe travaillant sur une stack puis change la semaine d'après. 
+Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une front-end et une back-end. Projet sur deux semaines, une équipe travaillant sur une stack puis change de stack la semaine suivante. 
 
 ## Notions abordées:
 
