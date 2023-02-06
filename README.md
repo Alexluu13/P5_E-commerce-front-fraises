@@ -11,8 +11,7 @@ Ce projet collectif à pour objectif de créer un site e-commerce en respectant 
 
 ## Outils:
 
-- React-Bootstrap/Nodejs
-- Postman, MongoDB
+- React-Bootstrap
 - Slack, Notion, Miro
 
 <p><img align="center" alt="" src="https://github.com/Alexluu13/P5_E-commerce-front-fraises/blob/main/p5_e-commerce_1.png"/></p>
