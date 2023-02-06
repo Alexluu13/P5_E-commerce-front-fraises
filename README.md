@@ -1,15 +1,13 @@
 # P5_e-commerce-front_fraises
 
-Frontend avec Julie D, Assetou, Faris et Alex. Changemnet de stack(backend) avec Julie B, Mehmet, Juanita, Clémentine et Délhia.
-
-Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une front-end et une back-end. Projet sur deux semaines, une équipe travaillant sur une stack puis change de stack la semaine suivante. 
+Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une team front-end composé de Julie D, Assetou, Faris et Alex et une tean back-end composé Julie B, Mehmet, Juanita, Clémentine et Délhia. Projet sur deux semaines, une équipe travaillant sur une stack puis change de stack la semaine suivante. 
 
 ## Notions abordées:
 
 - Déploiement web
 - Bases de données
-- Interactions Front-end/Back-end
-- Utilisation d’un framework/library pour le frontend et le backend
+- Interactions front-end/back-end
+- Utilisation d’un framework/library pour le front-end et le back-end
 
 ## Outils:
 
