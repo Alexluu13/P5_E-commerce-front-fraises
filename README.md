@@ -1,6 +1,6 @@
 # P5_e-commerce-front_fraises
 
-Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une team front-end composé de Julie D, Assetou, Faris et Alex et une tean back-end composé Julie B, Mehmet, Juanita, Clémentine et Délhia. Projet sur deux semaines, une équipe travaillant sur une stack puis change de stack la semaine suivante. 
+Ce projet collectif à pour objectif de créer un site e-commerce en respectant certaine contraintes. Avec deux équipes: une team front-end composé de Julie D, Assetou, Faris et Alex et une team back-end composé Julie B, Mehmet, Juanita, Clémentine et Délhia. Projet sur deux semaines, une équipe travaillant sur une stack puis change de stack la semaine suivante. 
 
 ## Notions abordées:
 
